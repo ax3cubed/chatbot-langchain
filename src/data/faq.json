@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is this application about?",
+    "answer": "This application helps users manage their daily tasks, set reminders, and track progress efficiently.",
+    "tags": ["general", "about", "application"]
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Go to the login page, click on 'Forgot Password', and follow the instructions sent to your registered email.",
+    "tags": ["account", "password", "security"]
+  },
+  {
+    "question": "Can I use the app offline?",
+    "answer": "Yes, you can access most features offline, and your data will sync automatically when you're back online.",
+    "tags": ["offline", "features", "sync"]
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "You can reach our support team via the 'Help & Support' section in the app or by emailing support@example.com.",
+    "tags": ["support", "help", "contact"]
+  },
+  {
+    "question": "Is my data secure?",
+    "answer": "Yes, we use industry-standard encryption and secure servers to protect your data.",
+    "tags": ["security", "data", "privacy"]
+  },
+  {
+    "question": "Can I share tasks with other users?",
+    "answer": "Yes, you can create shared task lists and invite other users to collaborate.",
+    "tags": ["collaboration", "tasks", "sharing"]
+  },
+  {
+    "question": "Which platforms are supported?",
+    "answer": "The app is available on iOS, Android, and web browsers.",
+    "tags": ["platforms", "devices", "availability"]
+  },
+  {
+    "question": "How do I delete my account?",
+    "answer": "Navigate to 'Account Settings', select 'Delete Account', and confirm your choice. Please note this action is irreversible.",
+    "tags": ["account", "delete", "settings"]
+  },
+  {
+    "question": "Is there a premium version?",
+    "answer": "Yes, the premium plan offers additional features like unlimited projects, advanced analytics, and priority support.",
+    "tags": ["pricing", "premium", "features"]
+  },
+  {
+    "question": "How do I enable notifications?",
+    "answer": "Go to 'Settings' > 'Notifications' and toggle the options you want to enable.",
+    "tags": ["notifications", "settings", "customization"]
+  },
+  {
+    "question": "Can I export my data?",
+    "answer": "Yes, you can export your data in CSV or JSON format from the 'Data Management' section.",
+    "tags": ["data", "export", "backup"]
+  }
+]
